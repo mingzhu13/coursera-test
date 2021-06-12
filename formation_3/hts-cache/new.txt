@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-00:45:39	45/45	---M-Z	200	added ('OK')	text/plain	date:Sat,%2012%20Jun%202021%2022:45:38%20GMT	https://formation-16.jimdosite.com/robots.txt		(from )
-00:45:40	4676161/4676161	---M-Z	200	added ('OK')	text/html	date:Sat,%2012%20Jun%202021%2022:45:38%20GMT	https://formation-16.jimdosite.com/	C:/Users/gaelg/Desktop/Mingli/For%20Gael/Jimdo/Copie2/formation_3/formation-16.jimdosite.com/index.html	(from )
